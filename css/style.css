@@ -1,0 +1,37 @@
+
+/* found out how to do this from dev.to: https://dev.to/clairecodes/how-to-create-a-polka-dot-background-with-css-23m0 */
+body {
+  background-image: radial-gradient(#cac24e 20%, transparent 20%);
+  background-color: #010400;
+  background-position: 0 0, 50px 50px;
+  background-size: 100px 100px;
+}
+
+.margin {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.zoom {
+	zoom: 1.2;
+	color:  #FFFBFC;
+}
+
+h1 {
+	color: #FFFBFC;
+	background-color: #62BBC1;
+}
+
+h3 {
+	background-color: #EC058E;
+	color: #FFFBFC;
+}
+
+p {
+	color: #FFFBFC;
+}
+
+h6 {
+		color: #FFFBFC;
+	background-color: #62BBC1;
+}
